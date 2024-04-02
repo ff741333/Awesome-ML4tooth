@@ -115,6 +115,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - A Revised Approach to Orthodontic Treatment Monitoring From Oralscan Video
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10264061)
   - Yan Tian, Guotang Jian, Jialei Wang, Hong Chen, Lei Pan, Zhaocheng Xu, Jianyuan Li, Ruili Wang. *JBHI*
+
+- Automatic registration of dental CT and 3D scanned model using deep split jaw and surface curvature
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0169260723001335)
+  - Minchang Kim, Minyoung Chung, Yeong-Gil Shin, Bohyoung Kim. *Computer Methods and Programs in Biomedicine*
   
 - Automatic 3D Registration of Dental CBCT and Face Scan Data using 2D Projection Images
   [[pdf]](https://arxiv.org/abs/2305.10132)
