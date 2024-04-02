@@ -6,46 +6,124 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Datasets](#datasets)
 * [Papers](#papers)
   * [Survey](#survey)
-  * [Grading](#grading)
+  * [Segmentation](#Segmentation)
 * [Projects](#projects)
 
 ## Datasets
 
-| Dataset                   | Time     | Images |  Format   |  Camera  |  Resolution |  FOV  | Institudes | Tasks |
-|---------------------------|----------|--------|-----------|----------|-------------|-------|------------| ----- |
-| [GDRBench](https://github.com/chehx/DGDR/blob/main/GDRBench/README.md) | 2023 | 111,357 | / | / | / | / | Multiple Institues | Domain Generalization in DR Grading (DGDR) |
+| Dataset                   | Time     | Number |  Format   | Institudes | Tasks |
+|---------------------------|----------|--------|-----------|------------| ----- |
+| [3DTeethSeg22&Teeth3DS](https://github.com/abenhamadou/3DTeethSeg22_challenge) | 2022 | 1800 | 3D intra-oral scans | / | Segmentation |
 
 ## Papers
 
 ### Survey
-- Deep learning techniques for diabetic retinopathy classification: A survey
-  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9729867)
-  - Mohammad Z. Atwany, Abdulwahab H. Sahyoun, Mohammad Yaqub. *IEEE Access 2022*
+- A review of deep learning in dentistry
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S092523122300752X)
+  - Chenxi Huang, Jiaji Wang, Shuihua Wang, Yudong Zhang. *Neurocomputing2023*
 
-### Grading
+
+### Segmentation
 
 **2024**
-- A deep learning system for predicting time to progression of diabetic retinopathy
-  [[pdf]](https://www.nature.com/articles/s41591-023-02702-z)
-  [[code]](https://github.com/drpredict/DeepDR_Plus)
-  - Ling Dai, Bin Sheng, Tingli Chen, Qiang Wu, Ruhan Liu, et al. *Nature Medicine*
- 
-- An interpretable dual attention network for diabetic retinopathy grading: IDANet
-  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0933365724000241)
-  - Amit Bhati, Neha Gour, Pritee Khanna, Aparajita Ojha, Naoufel Werghi. *Artificial Intelligence in Medicine 2024*
+- Fully automatic integration of dental CBCT images and full-arch intraoral impressions with stitching error correction via individual tooth segmentation and identification
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841524000215)
+  - Tae Jun Jang, Hye Sun Yun, Chang Min Hyun, Jong-Eun Kim, Sang-Hwy Lee, Jin Keun Seo. *MIA*
 
-- Dual Branch Deep Learning Network for Detection and Stage Grading of Diabetic Retinopathy
-  [[pdf]](https://www.sciencedirect.com/science/article/pii/S174680942400226X)
-  - Hossein Shakibania, Sina Raoufi, Behnam Pourafkham, Hassan Khotanlou, Muharram Mansoorizadeh. *Biomedical Signal Processing and Control*
+ - USCT: Uncertainty-regularized symmetric consistency learning for semi-supervised teeth segmentation in CBCT
+   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1746809424000909)
+   - Yixin Jing, Jie Liu, Weifan Liu, Zhicheng Yang, ZhongWei Zhou, Zekuan Yu. *Biomedical Signal Processing and Control*
 
+- Sparse Anatomical Prompt Semi-Supervised Learning with Masked Image Modeling for CBCT Tooth Segmentation
+  [[pdf]](https://arxiv.org/abs/2402.04587)
+  - Pengyu Dai, Yafei Ou, Yang Liu, Yue Zhao. *Arxiv*
 
+**2023**
+- Transformer-Based Tooth Segmentation, Identification and Pulp Calcification Recognition in CBCT
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_68)
+  - Yiwei Wang, Wenjun Xia, Zhennan Yan, Liang Zhao, Xiaohe Bian, Chang Liu, Zhengnan Qi, Shaoting Zhang, Zisheng Tang. *MIA*
+  
+- Robust Hybrid Learning for Automatic Teeth Segmentation and Labeling on 3D Dental Models
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10169899)
+  - Shangxuan Li, Chichi Li, Yu Du, Li Ye, Yanshu Fang, Cheng Wang & Wu Zhou. *MICCAI*
+
+- Toothsegnet: Image Degradation Meets Tooth Segmentation in CBCT Images
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230557)
+  - Jiaxiang Liu, Tianxiang Hu, Yang Feng, Wanghui Ding, Zuozhu Liu. *ISBI*
+  
+- 3D Tooth Mesh Segmentation with Simplified Mesh Cell Representation
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230650/citations#citations)
+  [[code]](https://github.com/ananyajana/tooth_mesh_seg)
+  - Ananya Jana, Hrebesh Molly Subhash, Dimitris Metaxas. *ISBI*
+
+- GRAB-Net: Graph-Based Boundary-Aware Network for Medical Point Cloud Segmentation
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10093984)
+  - Yifan Liu, Wuyang Li, Jie Liu, Hui Chen, Yixuan Yuan. *TMI*
+
+- Root canal treatment planning by automatic tooth and root canal segmentation in dental CBCT with deep multi-task feature learning
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841523000117)
+  - Yiwei Wang, Wenjun Xia, Zhennan Yan, Liang Zhao, Xiaohe Bian, Chang Liu, Zhengnan Qi, Shaoting Zhang, Zisheng Tang. *MIA*
+  
+- WITS: Weakly-supervised individual tooth segmentation model trained on box-level labels
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S003132032200454X)
+  [[code]](https://github.com/ruicx/Individual-Tooth-Segmentation-with-Rectangle-Labels)
+  - Ruicheng Xie, Yunyun Yang, Zhaoyang Chen. *PR*
+
+- Teeth U-Net: A segmentation model of dental panoramic X-ray images for context semantics and contrast enhancement
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0010482522010046)
+  - Senbao Hou, Tao Zhou, Yuncan Liu, Pei Dang, Huiling Lu, Hongbin Shi. *Computers in Biology and Medicine*
+
+- A fine-grained orthodontics segmentation model for 3D intraoral scan data
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0010482523012866)
+  [[code]](https://github.com/MIVRC/Fast-TGCN)
+  - Juncheng Li, Bodong Cheng, Najun Niu, Guangwei Gao, Shihui Ying, Jun Shi, Tieyong Zeng. *Computers in Biology and Medicine*
   
 
+- 3D tooth segmentation in cone-beam computed tomography images using distance transform
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S174680942200578X)
+  - Somayeh Kakehbaraei, Roghayyeh Arvanaghi, Hadi Seyedarabi, Farzad Esmaeili, Ali Taghavi Zenouz. *Biomedical Signal Processing and Control*
+ 
+- Deep-Learning-Based Segmentation of Individual Tooth and Bone With Periodontal Ligament Interface Details for Simulation Purposes
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10256039)
+  [[code]](https://github.com/diku-dk/AutoJawSegment)
+  - Peidi Xu, Torkan Gholamalizadeh, Faezeh Moshfeghifar, Sune Darkner, Kenny Erleben. *IEEE Access*
+
+- Semantic Segmentation on Panoramic Dental X-Ray Images Using U-Net Architectures
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10477346)
+  - Rafiatul Zannah, Mubtasim Bashar, Rahil Bin Mushfiq, Amitabha Chakrabarty, Shahriar Hossain, Yong Ju Jung. *IEEE Access*
+
+- Multi-level uncertainty aware learning for semi-supervised dental panoramic caries segmentation
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0925231223003193)
+  [[code]](https://github.com/Zzz512/MLUA)
+  - Xianyun Wang, Sizhe Gao, Kaisheng Jiang, Huicong Zhang, Linhong Wang, Feng Chen, Jun Yu, Fan Yang. *Neurocomputing*
+
+
+### Registration
+**2023**
+- A Revised Approach to Orthodontic Treatment Monitoring From Oralscan Video
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10264061)
+  - Yan Tian, Guotang Jian, Jialei Wang, Hong Chen, Lei Pan, Zhaocheng Xu, Jianyuan Li, Ruili Wang. *JBHI*
+  
+- Automatic 3D Registration of Dental CBCT and Face Scan Data using 2D Projection Images
+  [[pdf]](https://arxiv.org/abs/2305.10132)
+  - Hyoung Suk Park, Chang Min Hyun, Sang-Hwy Lee, Jin Keun Seo, Kiwan Jeon. *Arxiv*
+  
+
+### Construction 
+**2023**
+- 3D Teeth Reconstruction from Panoramic Radiographs Using Neural Implicit Functions
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_36)
+  - Sihwa Park, Seongjun Kim, In-Seok Song & Seung Jun Baek. *MICCAI*
+
+- Construction of unbiased dental template and parametric dental model for precision digital dentistry
+  [[pdf]](https://arxiv.org/abs/2304.03556)
+  [[code]](https://github.com/Marvin0724/Teeth_template)
+  - Lei Ma, Jingyang Zhang, Ke Deng, Peng Xue, Zhiming Cui, Yu Fang, Minhui Tang, Yue Zhao, Min Zhu, Zhongxiang Ding, Dinggang Shen. *Arxiv*
+
+- Geometry-Aware Attenuation Field Learning for Sparse-View CBCT Reconstruction
+  [[pdf]](https://arxiv.org/abs/2303.14739)
+  - Zhentao Liu, Yu Fang, Changjian Li, Han Wu, Yuan Liu, Zhiming Cui, Dinggang Shen. *Arxiv*
+  - 
 ## Projects
 
-- [[EyePACS](https://github.com/YijinHuang/pytorch-classification)] Identifying the key components in ResNet-50 for diabetic retinopathy grading from fundus images: a systematic investigation
-
-- [[Team o_O](https://github.com/sveitser/kaggle_diabetic)] Team o_O solution for the Kaggle Diabetic Retinopathy Detection Challenge
-
-- [[EyeNet](https://github.com/gregwchase/eyenet)] Identifying diabetic retinopathy using convolutional neural networks
 
