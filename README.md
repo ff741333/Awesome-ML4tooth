@@ -55,8 +55,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Toothsegnet: Image Degradation Meets Tooth Segmentation in CBCT Images
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230557)
   - Jiaxiang Liu, Tianxiang Hu, Yang Feng, Wanghui Ding, Zuozhu Liu. *ISBI*
-  
-
+    
+- Dental Anatomy Segmentation from Cone Beam CT Images
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230393)
+  - Minhui Tan, Yu Fang, Lei Ma, Yu Zhang, Zhiming Cui, Dinggang Shen. *ISBI*
 
 - GRAB-Net: Graph-Based Boundary-Aware Network for Medical Point Cloud Segmentation
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10093984)
@@ -103,6 +105,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[code]](https://github.com/Zzz512/MLUA)
   - Xianyun Wang, Sizhe Gao, Kaisheng Jiang, Huicong Zhang, Linhong Wang, Feng Chen, Jun Yu, Fan Yang. *Neurocomputing*
 
+**2022**
+- A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images
+  [[pdf]](https://www.nature.com/articles/s41467-022-29637-2)
+  - Zhiming Cui, Yu Fang, Lanzhuju Mei, Bojun Zhang, Bo Yu, Jiameng Liu, Caiwen Jiang, Yuhang Sun, Lei Ma, Jiawei Huang, Yang Liu, Yue Zhao, Chunfeng Lian, Zhongxiang Ding, Min Zhu & Dinggang Shen. *Nature Communications*
 
 ### Registration
 **2023**
@@ -116,6 +122,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
   
 
 ### Construction 
+**2024**
+- DTR-Net: Dual-Space 3D Tooth Model Reconstruction From Panoramic X-Ray Images
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10264685)
+  - Lanzhuju Mei, Yu Fang, Yue Zhao, Xiang Sean Zhou, Min Zhu, Zhiming Cui, Dinggang Shen. *TMI*
+
+  
 **2023**
 - 3D Teeth Reconstruction from Panoramic Radiographs Using Neural Implicit Functions
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_36)
@@ -129,7 +141,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Geometry-Aware Attenuation Field Learning for Sparse-View CBCT Reconstruction
   [[pdf]](https://arxiv.org/abs/2303.14739)
   - Zhentao Liu, Yu Fang, Changjian Li, Han Wu, Yuan Liu, Zhiming Cui, Dinggang Shen. *Arxiv*
-    
+
+**2022**
+- SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields
+  [[pdf]](https://arxiv.org/abs/2211.17048)
+  - Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen. *Arxiv*
 ## Projects
 
 
