@@ -133,6 +133,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_36)
   - Sihwa Park, Seongjun Kim, In-Seok Song & Seung Jun Baek. *MICCAI*
 
+- Deep learning-enabled 3D multimodal fusion of cone-beam CT and intraoral mesh scans for clinically applicable tooth-bone reconstruction
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S2666389923001940)
+  - Jiaxiang Liu, Jin Hao, Hangzheng Lin, Wei Pan, Jianfei Yang, Yang Feng, Gaoang Wang, Jin Li, Zuolin Jin, Zhihe Zhao, Zuozhu Liu. *Patterns*
+
 - Construction of unbiased dental template and parametric dental model for precision digital dentistry
   [[pdf]](https://arxiv.org/abs/2304.03556)
   [[code]](https://github.com/Marvin0724/Teeth_template)
