@@ -7,6 +7,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Papers](#papers)
   * [Survey](#survey)
   * [Segmentation](#Segmentation)
+  * [Registration](#Registration)
+  * [Construction](#Construction)
 * [Projects](#projects)
 
 ## Datasets
@@ -26,6 +28,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### Segmentation
 
 **2024**
+
 - Fully automatic integration of dental CBCT images and full-arch intraoral impressions with stitching error correction via individual tooth segmentation and identification
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841524000215)
   - Tae Jun Jang, Hye Sun Yun, Chang Min Hyun, Jong-Eun Kim, Sang-Hwy Lee, Jin Keun Seo. *MIA*
@@ -39,27 +42,30 @@ If you have any problems, suggestions or improvements, please submit the issue o
   - Pengyu Dai, Yafei Ou, Yang Liu, Yue Zhao. *Arxiv*
 
 **2023**
-- Transformer-Based Tooth Segmentation, Identification and Pulp Calcification Recognition in CBCT
-  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_68)
-  - Yiwei Wang, Wenjun Xia, Zhennan Yan, Liang Zhao, Xiaohe Bian, Chang Liu, Zhengnan Qi, Shaoting Zhang, Zisheng Tang. *MIA*
-  
+ 
 - Robust Hybrid Learning for Automatic Teeth Segmentation and Labeling on 3D Dental Models
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10169899)
   - Shangxuan Li, Chichi Li, Yu Du, Li Ye, Yanshu Fang, Cheng Wang & Wu Zhou. *MICCAI*
-
+    
+- 3D Tooth Mesh Segmentation with Simplified Mesh Cell Representation
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230650/citations#citations)
+  [[code]](https://github.com/ananyajana/tooth_mesh_seg)
+  - Ananya Jana, Hrebesh Molly Subhash, Dimitris Metaxas. *ISBI oral*
+    
 - Toothsegnet: Image Degradation Meets Tooth Segmentation in CBCT Images
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230557)
   - Jiaxiang Liu, Tianxiang Hu, Yang Feng, Wanghui Ding, Zuozhu Liu. *ISBI*
   
-- 3D Tooth Mesh Segmentation with Simplified Mesh Cell Representation
-  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230650/citations#citations)
-  [[code]](https://github.com/ananyajana/tooth_mesh_seg)
-  - Ananya Jana, Hrebesh Molly Subhash, Dimitris Metaxas. *ISBI*
+
 
 - GRAB-Net: Graph-Based Boundary-Aware Network for Medical Point Cloud Segmentation
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10093984)
   - Yifan Liu, Wuyang Li, Jie Liu, Hui Chen, Yixuan Yuan. *TMI*
-
+    
+- Transformer-Based Tooth Segmentation, Identification and Pulp Calcification Recognition in CBCT
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_68)
+  - Yiwei Wang, Wenjun Xia, Zhennan Yan, Liang Zhao, Xiaohe Bian, Chang Liu, Zhengnan Qi, Shaoting Zhang, Zisheng Tang. *MIA*
+  - 
 - Root canal treatment planning by automatic tooth and root canal segmentation in dental CBCT with deep multi-task feature learning
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841523000117)
   - Yiwei Wang, Wenjun Xia, Zhennan Yan, Liang Zhao, Xiaohe Bian, Chang Liu, Zhengnan Qi, Shaoting Zhang, Zisheng Tang. *MIA*
@@ -123,7 +129,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Geometry-Aware Attenuation Field Learning for Sparse-View CBCT Reconstruction
   [[pdf]](https://arxiv.org/abs/2303.14739)
   - Zhentao Liu, Yu Fang, Changjian Li, Han Wu, Yuan Liu, Zhiming Cui, Dinggang Shen. *Arxiv*
-  - 
+    
 ## Projects
 
 
