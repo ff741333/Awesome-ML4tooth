@@ -17,6 +17,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 |---------------------------|----------|--------|-----------|------------| ----- |
 | [STS-3D](https://tianchi.aliyun.com/competition/entrance/532087/introduction) | 2023 | 1084 | 3D CBCT | / | Segmentation |
 | [STS-2D](https://tianchi.aliyun.com/competition/entrance/532086/introduction) | 2023 | 9500  | 2D X-ray | / | Segmentation |
+| [DC1000](https://github.com/Zzz512/MLUA) | 2023 | 1000  | 2D X-ray | / | Segmentation |
 | [3DTeethSeg22&Teeth3DS](https://github.com/abenhamadou/3DTeethSeg22_challenge) | 2022 | 1800 | 3D intra-oral scans | / | Segmentation |
 
 
