@@ -70,7 +70,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Transformer-Based Tooth Segmentation, Identification and Pulp Calcification Recognition in CBCT
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_68)
   - Yiwei Wang, Wenjun Xia, Zhennan Yan, Liang Zhao, Xiaohe Bian, Chang Liu, Zhengnan Qi, Shaoting Zhang, Zisheng Tang. *MIA*
-  - 
+   
 - Root canal treatment planning by automatic tooth and root canal segmentation in dental CBCT with deep multi-task feature learning
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841523000117)
   - Yiwei Wang, Wenjun Xia, Zhennan Yan, Liang Zhao, Xiaohe Bian, Chang Liu, Zhengnan Qi, Shaoting Zhang, Zisheng Tang. *MIA*
