@@ -15,9 +15,9 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 | Dataset                   | Time     | Number |  Format   | Institudes | Tasks |
 |---------------------------|----------|--------|-----------|------------| ----- |
-| [3DTeethSeg22&Teeth3DS](https://github.com/abenhamadou/3DTeethSeg22_challenge) | 2022 | 1800 | 3D intra-oral scans | / | Segmentation |
 | [STS-3D](https://tianchi.aliyun.com/competition/entrance/532087/introduction) | 2022 | 1084 | 3D CBCT | / | Segmentation |
 | [STS-2D](https://tianchi.aliyun.com/competition/entrance/532086/introduction) | 2022 | 9500  | 2D X-ray | / | Segmentation |
+| [3DTeethSeg22&Teeth3DS](https://github.com/abenhamadou/3DTeethSeg22_challenge) | 2022 | 1800 | 3D intra-oral scans | / | Segmentation |
 
 
 ## Papers
