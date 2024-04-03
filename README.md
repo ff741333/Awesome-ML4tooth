@@ -126,7 +126,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Automatic 3D Registration of Dental CBCT and Face Scan Data using 2D Projection Images
   [[pdf]](https://arxiv.org/abs/2305.10132)
   - Hyoung Suk Park, Chang Min Hyun, Sang-Hwy Lee, Jin Keun Seo, Kiwan Jeon. *Arxiv*
-  
+
+**2020**
+- Automatic Registration Between Dental Cone-Beam CT and Scanned Surface via Deep Pose Regression Neural Networks and Clustered Similarities
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9133542)
+  - Minyoung Chung, Jingyu Lee, Wisoo Song, Youngchan Song, Il-Hyung Yang, Jeongjin Lee , and Yeong-Gil Shin. *TMI*
 
 ### Construction 
 **2024**
