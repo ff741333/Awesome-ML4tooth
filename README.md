@@ -1,4 +1,4 @@
-# Awesome Diabetic-Retinopathy-Detection
+# Awesome-ML4tooth
 
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
