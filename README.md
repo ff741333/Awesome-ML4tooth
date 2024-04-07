@@ -19,6 +19,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 | [STS-2D](https://tianchi.aliyun.com/competition/entrance/532086/introduction) | 2023 | 9500  | 2D X-ray | / | Segmentation |
 | [DC1000](https://github.com/Zzz512/MLUA) | 2023 | 1000  | 2D X-ray | / | Segmentation |
 | [3DTeethSeg22&Teeth3DS](https://github.com/abenhamadou/3DTeethSeg22_challenge) | 2022 | 1800 | 3D intra-oral scans | / | Segmentation |
+| [Aariz](https://github.com/manwaarkhd/aariz-cephalometric-dataset) | 2022 | 1000 | 2D lateral cephalometric radiographs | / | localization  |
 | [Shining3D](https://drive.google.com/drive/folders/1fx9_KVEugZxbO3aTdwdfVTGf87_9FoLx) | 2020 | 210 | 3D intra-oral scans | / | Segmentation |
 
 
