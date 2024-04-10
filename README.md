@@ -143,6 +143,13 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ### Construction 
 **2024**
+
+- NeBLa: Neural Beer-Lambert for 3D Reconstruction of Oral Structures from Panoramic Radiographs
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28241)
+  [[code]](https://github.com/sihwa-park/nebla)
+  [[video]](https://ojs.aaai.org/index.php/AAAI/article/view/28241/28478)
+  - Sihwa Park, Seongjun Kim, Doeyoung Kwon, Yohan Jang, In-Seok Song, Seung Jun Baek. *AAAI 2024*
+    
 - DTR-Net: Dual-Space 3D Tooth Model Reconstruction From Panoramic X-Ray Images
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10264685)
   - Lanzhuju Mei, Yu Fang, Yue Zhao, Xiang Sean Zhou, Min Zhu, Zhiming Cui, Dinggang Shen. *TMI*
