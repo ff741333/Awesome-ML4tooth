@@ -178,5 +178,5 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/abs/2211.17048)
   - Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen. *Arxiv*
 ## Projects
-
+- [SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools)
 
