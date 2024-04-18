@@ -187,7 +187,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011748)
   [[code]](https://github.com/ithet1007/mmld_code)
   - Tao He, Guikun Xu, Li Cui, Wei Tang, Jie Long, Jixiang Guo. *Neurocomputing*
-    
+
+**2023**
+- Unsupervised Domain Adaptation for Anatomical Landmark Detection
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_66)
+  [[code]](https://github.com/jhb86253817/UDA_Med_Landmark)
+  - Haibo Jin, Haoxuan Che & Hao Chen. *MICCAI 2023*
 ## Projects
 - [SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools)
 - [bone-finder](https://bone-finder.com/)
