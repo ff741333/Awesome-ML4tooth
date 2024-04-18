@@ -120,6 +120,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images
   [[pdf]](https://www.nature.com/articles/s41467-022-29637-2)
+  [[code]](https://github.com/ErdanC/Tooth-and-alveolar-bone-segmentation-from-CBCT)
   - Zhiming Cui, Yu Fang, Lanzhuju Mei, Bojun Zhang, Bo Yu, Jiameng Liu, Caiwen Jiang, Yuhang Sun, Lei Ma, Jiawei Huang, Yang Liu, Yue Zhao, Chunfeng Lian, Zhongxiang Ding, Min Zhu & Dinggang Shen. *Nature Communications*
 
 ### Registration
