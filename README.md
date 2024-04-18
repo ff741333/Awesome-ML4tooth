@@ -6,9 +6,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Datasets](#datasets)
 * [Papers](#papers)
   * [Survey](#survey)
-  * [Segmentation](#Segmentation)
-  * [Registration](#Registration)
-  * [Construction](#Construction)
+  * [Segmentation](#segmentation)
+  * [Registration](#registration)
+  * [Construction](#construction)
+  * [Landmark](#landmark)
 * [Projects](#projects)
 
 ## Datasets
@@ -178,6 +179,13 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - SNAF: Sparse-view CBCT Reconstruction with Neural Attenuation Fields
   [[pdf]](https://arxiv.org/abs/2211.17048)
   - Yu Fang, Lanzhuju Mei, Changjian Li, Yuan Liu, Wenping Wang, Zhiming Cui, Dinggang Shen. *Arxiv*
+ 
+### Landmark
+**2024**
+- Anchor Ball Regression Model for large-scale 3D skull landmark detection
+  [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011748)
+  - Tao He, Guikun Xu, Li Cui, Wei Tang, Jie Long, Jixiang Guo. *Neurocomputing*
+    
 ## Projects
 - [SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools)
 
