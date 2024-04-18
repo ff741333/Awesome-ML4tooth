@@ -184,6 +184,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 **2024**
 - Anchor Ball Regression Model for large-scale 3D skull landmark detection
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S0925231223011748)
+  [[code]](https://github.com/ithet1007/mmld_code)
   - Tao He, Guikun Xu, Li Cui, Wei Tang, Jie Long, Jixiang Guo. *Neurocomputing*
     
 ## Projects
