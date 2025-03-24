@@ -240,3 +240,4 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ## Projects
 - [SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools)
 - [bone-finder](https://bone-finder.com/)
+- [auto_tooth_arragement](https://github.com/yeyuxmf/auto_tooth_arrangement)
