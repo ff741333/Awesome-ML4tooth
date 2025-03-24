@@ -194,7 +194,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   - Haibo Jin, Haoxuan Che, Hao Chen. *MICCAI 2023*
 
 ### Arrangement/Alignment
-**2025*
+**2025**
 - An automatic teeth arrangement method based on an intelligent optimization algorithm and the Frenet–Serret formula
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S174680942500117X)
   Hong-an Li, Man Liu. *Biomedical Signal Processing and Control*
