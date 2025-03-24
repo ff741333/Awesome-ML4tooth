@@ -10,7 +10,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   * [Registration](#registration)
   * [Construction](#construction)
   * [Landmark](#landmark)
-  * [Arrangement/Alignment](#Arrangement/Alignment)
+  * [Arrangement/Alignment](#arrangementalignment)
 * [Projects](#projects)
 
 ## Datasets
@@ -198,7 +198,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 **2025**
 - An automatic teeth arrangement method based on an intelligent optimization algorithm and the Frenet–Serret formula
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S174680942500117X)
-  Hong-an Li, Man Liu. *Biomedical Signal Processing and Control*
+  - Hong-an Li, Man Liu. *Biomedical Signal Processing and Control*
 
 **2024**
 - Collaborative Tooth Motion Diffusion Model in Digital Orthodontics
