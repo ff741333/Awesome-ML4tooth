@@ -10,6 +10,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   * [Registration](#registration)
   * [Construction](#construction)
   * [Landmark](#landmark)
+  * [Arrangement/Alignment](#Arrangement/Alignment)
 * [Projects](#projects)
 
 ## Datasets
