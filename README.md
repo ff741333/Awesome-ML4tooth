@@ -209,10 +209,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.nature.com/articles/s41597-024-04138-7)
   - Shaofeng Wang, Changsong Lei, Yaqian Liang, Jun Sun, Xianju Xie, Yajie Wang, Feifei Zuo, Yuxin Bai, Song Li, Yong-Jin Liu. *scientific data*
     
-- Tooth Alignment Network Based on Landmark Constraints and Hierarchical Graph Structure
-  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9933028)
-  - Chen Wang, Guangshun Wei, Guodong Wei, Wenping Wang, Yuanfeng Zhou. *TVCG*
-   
 - Neural Orthodontic Staging: Predicting Teeth Movements with a Transformer
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10764725)
   - Jiayue Ma, Jianwen Lou†, Borong Jiang, Hengyi Ye, Wenke Yu, Xiang Chen, Kun Zhou, Youyi Zheng. *TVCG*
@@ -224,7 +220,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective
   [[pdf]](https://arxiv.org/abs/2409.11937)
   - Zhihui He, Chengyuan Wang, Shidong Yang, Li Chen, Yanheng Zhou, Shuo Wang. *Arxiv*
-    
+
+**2022**
+- Tooth Alignment Network Based on Landmark Constraints and Hierarchical Graph Structure
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9933028)
+  - Chen Wang, Guangshun Wei, Guodong Wei, Wenping Wang, Yuanfeng Zhou. *TVCG*
 
 **2020**
 - Malocclusion Treatment Planning via PointNet Based Spatial Transformation Network
