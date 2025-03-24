@@ -32,13 +32,17 @@ If you have any problems, suggestions or improvements, please submit the issue o
 ### Survey
 - A review of deep learning in dentistry
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S092523122300752X)
-  - Chenxi Huang, Jiaji Wang, Shuihua Wang, Yudong Zhang. *Neurocomputing2023*
+  - Chenxi Huang, Jiaji Wang, Shuihua Wang, Yudong Zhang. *Neurocomputing 2023*
 
 
 ### Segmentation
 
 **2024**
 
+- Sparse Anatomical Prompt Semi-Supervised Learning with Masked Image Modeling for CBCT Tooth Segmentation
+  [[pdf]](https://arxiv.org/abs/2402.04587)
+  - Pengyu Dai, Yafei Ou, Yang Liu, Yue Zhao. *ISBI 2024*
+    
 - Fully automatic integration of dental CBCT images and full-arch intraoral impressions with stitching error correction via individual tooth segmentation and identification
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S1361841524000215)
   - Tae Jun Jang, Hye Sun Yun, Chang Min Hyun, Jong-Eun Kim, Sang-Hwy Lee, Jin Keun Seo. *MIA*
@@ -47,28 +51,24 @@ If you have any problems, suggestions or improvements, please submit the issue o
    [[pdf]](https://www.sciencedirect.com/science/article/pii/S1746809424000909)
    - Yixin Jing, Jie Liu, Weifan Liu, Zhicheng Yang, ZhongWei Zhou, Zekuan Yu. *Biomedical Signal Processing and Control*
 
-- Sparse Anatomical Prompt Semi-Supervised Learning with Masked Image Modeling for CBCT Tooth Segmentation
-  [[pdf]](https://arxiv.org/abs/2402.04587)
-  - Pengyu Dai, Yafei Ou, Yang Liu, Yue Zhao. *Arxiv*
-
 **2023**
  
 - Robust Hybrid Learning for Automatic Teeth Segmentation and Labeling on 3D Dental Models
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10169899)
-  - Shangxuan Li, Chichi Li, Yu Du, Li Ye, Yanshu Fang, Cheng Wang & Wu Zhou. *MICCAI*
+  - Shangxuan Li, Chichi Li, Yu Du, Li Ye, Yanshu Fang, Cheng Wang, Wu Zhou. *MICCAI 2023*
     
 - 3D Tooth Mesh Segmentation with Simplified Mesh Cell Representation
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230650/citations#citations)
   [[code]](https://github.com/ananyajana/tooth_mesh_seg)
-  - Ananya Jana, Hrebesh Molly Subhash, Dimitris Metaxas. *ISBI oral*
+  - Ananya Jana, Hrebesh Molly Subhash, Dimitris Metaxas. *ISBI 2023 oral*
     
 - Toothsegnet: Image Degradation Meets Tooth Segmentation in CBCT Images
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230557)
-  - Jiaxiang Liu, Tianxiang Hu, Yang Feng, Wanghui Ding, Zuozhu Liu. *ISBI*
+  - Jiaxiang Liu, Tianxiang Hu, Yang Feng, Wanghui Ding, Zuozhu Liu. *ISBI 2023*
     
 - Dental Anatomy Segmentation from Cone Beam CT Images
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10230393)
-  - Minhui Tan, Yu Fang, Lei Ma, Yu Zhang, Zhiming Cui, Dinggang Shen. *ISBI*
+  - Minhui Tan, Yu Fang, Lei Ma, Yu Zhang, Zhiming Cui, Dinggang Shen. *ISBI 2023*
 
 - GRAB-Net: Graph-Based Boundary-Aware Network for Medical Point Cloud Segmentation
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10093984)
@@ -96,7 +96,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[code]](https://github.com/MIVRC/Fast-TGCN)
   - Juncheng Li, Bodong Cheng, Najun Niu, Guangwei Gao, Shihui Ying, Jun Shi, Tieyong Zeng. *Computers in Biology and Medicine*
   
-
 - 3D tooth segmentation in cone-beam computed tomography images using distance transform
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S174680942200578X)
   - Somayeh Kakehbaraei, Roghayyeh Arvanaghi, Hadi Seyedarabi, Farzad Esmaeili, Ali Taghavi Zenouz. *Biomedical Signal Processing and Control*
@@ -123,9 +122,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - A fully automatic AI system for tooth and alveolar bone segmentation from cone-beam CT images
   [[pdf]](https://www.nature.com/articles/s41467-022-29637-2)
   [[code]](https://github.com/ErdanC/Tooth-and-alveolar-bone-segmentation-from-CBCT)
-  - Zhiming Cui, Yu Fang, Lanzhuju Mei, Bojun Zhang, Bo Yu, Jiameng Liu, Caiwen Jiang, Yuhang Sun, Lei Ma, Jiawei Huang, Yang Liu, Yue Zhao, Chunfeng Lian, Zhongxiang Ding, Min Zhu & Dinggang Shen. *Nature Communications*
+  - Zhiming Cui, Yu Fang, Lanzhuju Mei, Bojun Zhang, Bo Yu, Jiameng Liu, Caiwen Jiang, Yuhang Sun, Lei Ma, Jiawei Huang, Yang Liu, Yue Zhao, Chunfeng Lian, Zhongxiang Ding, Min Zhu, Dinggang Shen. *Nature Communications*
 
 ### Registration
+**2024**
+- Automatic 3D Registration of Dental CBCT and Face Scan Data using 2D Projection Images
+  [[pdf]](https://arxiv.org/abs/2305.10132)
+  - Hyoung Suk Park, Chang Min Hyun, Sang-Hwy Lee, Jin Keun Seo, Kiwan Jeon. *IEEE Access*
+    
 **2023**
 - A Revised Approach to Orthodontic Treatment Monitoring From Oralscan Video
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10264061)
@@ -134,10 +138,6 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Automatic registration of dental CT and 3D scanned model using deep split jaw and surface curvature
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0169260723001335)
   - Minchang Kim, Minyoung Chung, Yeong-Gil Shin, Bohyoung Kim. *Computer Methods and Programs in Biomedicine*
-  
-- Automatic 3D Registration of Dental CBCT and Face Scan Data using 2D Projection Images
-  [[pdf]](https://arxiv.org/abs/2305.10132)
-  - Hyoung Suk Park, Chang Min Hyun, Sang-Hwy Lee, Jin Keun Seo, Kiwan Jeon. *Arxiv*
 
 **2020**
 - Automatic Registration Between Dental Cone-Beam CT and Scanned Surface via Deep Pose Regression Neural Networks and Clustered Similarities
@@ -157,20 +157,19 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10264685)
   - Lanzhuju Mei, Yu Fang, Yue Zhao, Xiang Sean Zhou, Min Zhu, Zhiming Cui, Dinggang Shen. *TMI*
 
+- Construction of unbiased dental template and parametric dental model for precision digital dentistry
+  [[pdf]](https://arxiv.org/abs/2304.03556)
+  [[code]](https://github.com/Marvin0724/Teeth_template)
+  - Lei Ma, Jingyang Zhang, Ke Deng, Peng Xue, Zhiming Cui, Yu Fang, Minhui Tang, Yue Zhao, Min Zhu, Zhongxiang Ding, Dinggang Shen. *Biomedical Signal Processing and Control*
   
 **2023**
 - 3D Teeth Reconstruction from Panoramic Radiographs Using Neural Implicit Functions
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_36)
-  - Sihwa Park, Seongjun Kim, In-Seok Song & Seung Jun Baek. *MICCAI*
+  - Sihwa Park, Seongjun Kim, In-Seok Song, Seung Jun Baek. *MICCAI 2023*
 
 - Deep learning-enabled 3D multimodal fusion of cone-beam CT and intraoral mesh scans for clinically applicable tooth-bone reconstruction
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S2666389923001940)
   - Jiaxiang Liu, Jin Hao, Hangzheng Lin, Wei Pan, Jianfei Yang, Yang Feng, Gaoang Wang, Jin Li, Zuolin Jin, Zhihe Zhao, Zuozhu Liu. *Patterns*
-
-- Construction of unbiased dental template and parametric dental model for precision digital dentistry
-  [[pdf]](https://arxiv.org/abs/2304.03556)
-  [[code]](https://github.com/Marvin0724/Teeth_template)
-  - Lei Ma, Jingyang Zhang, Ke Deng, Peng Xue, Zhiming Cui, Yu Fang, Minhui Tang, Yue Zhao, Min Zhu, Zhongxiang Ding, Dinggang Shen. *Arxiv*
 
 - Geometry-Aware Attenuation Field Learning for Sparse-View CBCT Reconstruction
   [[pdf]](https://arxiv.org/abs/2303.14739)
@@ -192,7 +191,51 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Unsupervised Domain Adaptation for Anatomical Landmark Detection
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_66)
   [[code]](https://github.com/jhb86253817/UDA_Med_Landmark)
-  - Haibo Jin, Haoxuan Che & Hao Chen. *MICCAI 2023*
+  - Haibo Jin, Haoxuan Che, Hao Chen. *MICCAI 2023*
+
+### Arrangement/Alignment
+**2025*
+- An automatic teeth arrangement method based on an intelligent optimization algorithm and the Frenet–Serret formula
+  [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S174680942500117X)
+  Hong-an Li, Man Liu. *Biomedical Signal Processing and Control*
+
+**2024**
+- Collaborative Tooth Motion Diffusion Model in Digital Orthodontics
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/27935)
+  - Yeying Fan, Guangshun Wei, Chen Wang, Shaojie Zhuang, Wenping Wang, Yuanfeng Zhou. *AAAI 2024*
+    
+- A 3D dental model dataset with pre/post-orthodontic treatment for automatic tooth alignment
+  [[pdf]](https://www.nature.com/articles/s41597-024-04138-7)
+  - Shaofeng Wang, Changsong Lei, Yaqian Liang, Jun Sun, Xianju Xie, Yajie Wang, Feifei Zuo, Yuxin Bai, Song Li, Yong-Jin Liu. *scientific data*
+    
+- Tooth Alignment Network Based on Landmark Constraints and Hierarchical Graph Structure
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9933028)
+  - Chen Wang, Guangshun Wei, Guodong Wei, Wenping Wang, Yuanfeng Zhou. *TVCG*
+   
+- Neural Orthodontic Staging: Predicting Teeth Movements with a Transformer
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10764725)
+  - Jiayue Ma, Jianwen Lou†, Borong Jiang, Hengyi Ye, Wenke Yu, Xiang Chen, Kun Zhou, Youyi Zheng. *TVCG*
+
+- Automatic tooth arrangement with joint features of point and mesh representations via diffusion probabilistic models
+  [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S016783962400027X)
+  - Changsong Lei, Mengfei Xia, Shaofeng Wang, Yaqian Liang, Ran Yi,Yu-Hui Wen, Yong-Jin Liu. *Computer Aided Geometric Design*
+
+- Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective
+  [[pdf]](https://arxiv.org/abs/2409.11937)
+  - Zhihui He, Chengyuan Wang, Shidong Yang, Li Chen, Yanheng Zhou, Shuo Wang. *Arxiv*
+    
+
+**2020**
+- Malocclusion Treatment Planning via PointNet Based Spatial Transformation Network
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_11)
+  - Xiaoshuang Li, Lei Bi, Jinman Kim, Tingyao Li, Peng Li, Ye Tian, Bin Sheng, and Dagan Feng. *MICCAI 2020*
+
+- TANet: Towards Fully Automatic Tooth Arrangement
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_29)
+  - Guodong Wei, Zhiming Cui, Yumeng Liu, Nenglun Chen, Runnan Chen, Guiqing Li, Wenping Wang. *ECCV 2020*
+
+
+
 ## Projects
 - [SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools)
 - [bone-finder](https://bone-finder.com/)
