@@ -200,10 +200,18 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S174680942500117X)
   - Hong-an Li, Man Liu. *Biomedical Signal Processing and Control*
 
+- A Dynamic Arrangement Framework for Automatic Tooth Alignment based on Orthodontic Rules.
+  [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5196607)
+  - Yeying Fan, Guangshun Wei, Weijie Liu, Chuanxiang Yang, Chuanyun Fu, Wenping Wang, Yuanfeng Zhou. *Preprint*
+
 **2024**
 - Collaborative Tooth Motion Diffusion Model in Digital Orthodontics
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/27935)
   - Yeying Fan, Guangshun Wei, Chen Wang, Shaojie Zhuang, Wenping Wang, Yuanfeng Zhou. *AAAI 2024*
+
+- TAPoseNet: Teeth Alignment based on Pose estimation via multi-scale Graph Convolutional Network
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_30)
+  - Qingxin Deng, Xunyu Yang, Minghan Huang, Landu Jiang, Dian Zhang. *MICCAI 2024*
     
 - A 3D dental model dataset with pre/post-orthodontic treatment for automatic tooth alignment
   [[pdf]](https://www.nature.com/articles/s41597-024-04138-7)
@@ -221,19 +229,31 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://arxiv.org/abs/2409.11937)
   - Zhihui He, Chengyuan Wang, Shidong Yang, Li Chen, Yanheng Zhou, Shuo Wang. *Arxiv*
 
+**2023**
+- A Semantic-Guided and Knowledge-Based Generative Framework for Orthodontic Visual Outcome Preview
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_14)
+  - Yizhou Chen, Xiaojun Chen. *MICCAI 2023*
+
 **2022**
 - Tooth Alignment Network Based on Landmark Constraints and Hierarchical Graph Structure
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9933028)
   - Chen Wang, Guangshun Wei, Guodong Wei, Wenping Wang, Yuanfeng Zhou. *TVCG*
 
 **2020**
+- TANet: Towards Fully Automatic Tooth Arrangement
+  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_29)
+  - Guodong Wei, Zhiming Cui, Yumeng Liu, Nenglun Chen, Runnan Chen, Guiqing Li, Wenping Wang. *ECCV 2020*
+
+- iOrthoPredictor: model-guided deep prediction of teeth alignment
+  [[PDF]](https://dl.acm.org/doi/10.1145/3414685.3417771)
+  [[code]](https://github.com/Lingchen-chen/iOrthopredictor)
+  - Lingchen Yang, Zefeng Shi, Yiqian Wu, Xiang Li, Kun Zhou, Hongbo Fu, Youyi Zheng. *SIGGRAPH ASIA 2020*
+
 - Malocclusion Treatment Planning via PointNet Based Spatial Transformation Network
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_11)
   - Xiaoshuang Li, Lei Bi, Jinman Kim, Tingyao Li, Peng Li, Ye Tian, Bin Sheng, and Dagan Feng. *MICCAI 2020*
 
-- TANet: Towards Fully Automatic Tooth Arrangement
-  [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_29)
-  - Guodong Wei, Zhiming Cui, Yumeng Liu, Nenglun Chen, Runnan Chen, Guiqing Li, Wenping Wang. *ECCV 2020*
+
 
 
 
