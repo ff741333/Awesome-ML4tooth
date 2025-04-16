@@ -200,7 +200,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S174680942500117X)
   - Hong-an Li, Man Liu. *Biomedical Signal Processing and Control*
 
-- A Dynamic Arrangement Framework for Automatic Tooth Alignment based on Orthodontic Rules.
+- A Dynamic Arrangement Framework for Automatic Tooth Alignment based on Orthodontic Rules
   [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5196607)
   - Yeying Fan, Guangshun Wei, Weijie Liu, Chuanxiang Yang, Chuanyun Fu, Wenping Wang, Yuanfeng Zhou. *Preprint*
 
@@ -211,19 +211,21 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 - TAPoseNet: Teeth Alignment based on Pose estimation via multi-scale Graph Convolutional Network
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_30)
+  [[code]](https://github.com/StardustandRain/TAPoseNet)
   - Qingxin Deng, Xunyu Yang, Minghan Huang, Landu Jiang, Dian Zhang. *MICCAI 2024*
     
 - A 3D dental model dataset with pre/post-orthodontic treatment for automatic tooth alignment
   [[pdf]](https://www.nature.com/articles/s41597-024-04138-7)
+  [[code]](https://github.com/lcshhh/TADPM)
   - Shaofeng Wang, Changsong Lei, Yaqian Liang, Jun Sun, Xianju Xie, Yajie Wang, Feifei Zuo, Yuxin Bai, Song Li, Yong-Jin Liu. *scientific data*
-    
-- Neural Orthodontic Staging: Predicting Teeth Movements with a Transformer
-  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10764725)
-  - Jiayue Ma, Jianwen Lou†, Borong Jiang, Hengyi Ye, Wenke Yu, Xiang Chen, Kun Zhou, Youyi Zheng. *TVCG*
-
+ 
 - Automatic tooth arrangement with joint features of point and mesh representations via diffusion probabilistic models
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S016783962400027X)
   - Changsong Lei, Mengfei Xia, Shaofeng Wang, Yaqian Liang, Ran Yi,Yu-Hui Wen, Yong-Jin Liu. *Computer Aided Geometric Design*
+   
+- Neural Orthodontic Staging: Predicting Teeth Movements with a Transformer
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10764725)
+  - Jiayue Ma, Jianwen Lou†, Borong Jiang, Hengyi Ye, Wenke Yu, Xiang Chen, Kun Zhou, Youyi Zheng. *TVCG*
 
 - Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective
   [[pdf]](https://arxiv.org/abs/2409.11937)
@@ -242,6 +244,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 **2020**
 - TANet: Towards Fully Automatic Tooth Arrangement
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-58555-6_29)
+  [[code]](https://github.com/ziyangyeh/TANet-Pytorch)
   - Guodong Wei, Zhiming Cui, Yumeng Liu, Nenglun Chen, Runnan Chen, Guiqing Li, Wenping Wang. *ECCV 2020*
 
 - iOrthoPredictor: model-guided deep prediction of teeth alignment
