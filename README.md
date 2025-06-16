@@ -11,12 +11,16 @@ If you have any problems, suggestions or improvements, please submit the issue o
   * [Construction](#construction)
   * [Landmark](#landmark)
   * [Arrangement/Alignment](#arrangementalignment)
+  * [Digital Smile Design](#digital-smile-design)
 * [Projects](#projects)
 
 ## Datasets
 
 | Dataset                   | Time     | Number |  Format   | Institudes | Tasks |
 |---------------------------|----------|--------|-----------|------------| ----- |
+| [toothfairy3](https://toothfairy3.grand-challenge.org) | 2025 | 532 | 3D CBCT | / | Segmentation |
+| [toothfairy2](https://toothfairy2.grand-challenge.org) | 2024 | 480 | 3D CBCT | / | Segmentation |
+| [toothfairy](https://toothfairy.grand-challenge.org) | 2023 | 290 | 3D CBCT | / | Segmentation |
 | [STS-3D](https://tianchi.aliyun.com/competition/entrance/532087/introduction) | 2023 | 1084 | 3D CBCT | / | Segmentation |
 | [STS-2D](https://tianchi.aliyun.com/competition/entrance/532086/introduction) | 2023 | 9500  | 2D X-ray | / | Segmentation |
 | [DC1000](https://github.com/Zzz512/MLUA) | 2023 | 1000  | 2D X-ray | / | Segmentation |
@@ -213,6 +217,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-72390-2_30)
   [[code]](https://github.com/StardustandRain/TAPoseNet)
   - Qingxin Deng, Xunyu Yang, Minghan Huang, Landu Jiang, Dian Zhang. *MICCAI 2024*
+
+- Improving Dental Alignment Accuracy with 3D Scanning and Deep Learning Model Optimization
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10822132)
+  - Geunye Kim, Sena Lee, Juryeong Jeong, Yongkyu Jin, Sejung Yang. *BIBM 2024*
     
 - A 3D dental model dataset with pre/post-orthodontic treatment for automatic tooth alignment
   [[pdf]](https://www.nature.com/articles/s41597-024-04138-7)
@@ -226,6 +234,10 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Neural Orthodontic Staging: Predicting Teeth Movements with a Transformer
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10764725)
   - Jiayue Ma, Jianwen Lou†, Borong Jiang, Hengyi Ye, Wenke Yu, Xiang Chen, Kun Zhou, Youyi Zheng. *TVCG*
+
+- LETA: Tooth Alignment Prediction Based on Dual-branch Latent Encoding
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/10566714)
+  - Zefeng Shi, Zijie Meng, Ruizhe Chen, Yang Feng, Zeyu Zhao, Jin Hao, Bing Fang, Zuozhu Liu, Youyi Zheng. *TVCG*
 
 - Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective
   [[pdf]](https://arxiv.org/abs/2409.11937)
@@ -256,7 +268,12 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_11)
   - Xiaoshuang Li, Lei Bi, Jinman Kim, Tingyao Li, Peng Li, Ye Tian, Bin Sheng, and Dagan Feng. *MICCAI 2020*
 
-
+### Digital Smile Design
+**2024**
+- Dynasmile: Video-based smile analysis software in orthodontics
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S2352711024003741)
+  [[code]](https://github.com/dentistfrankchen/dynasmile)
+  - Ke Chen, Lingling Qiu, Xianju Xie, Yuxing Bai. *SoftwareX*
 
 
 
