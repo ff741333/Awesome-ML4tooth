@@ -6,6 +6,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Datasets](#datasets)
 * [Papers](#papers)
   * [Survey](#survey)
+  * [LVLM](#lvlm) 
   * [Segmentation](#segmentation)
   * [Registration](#registration)
   * [Construction](#construction)
@@ -38,6 +39,28 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - A review of deep learning in dentistry
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S092523122300752X)
   - Chenxi Huang, Jiaji Wang, Shuihua Wang, Yudong Zhang. *Neurocomputing 2023*
+
+### LVLM
+
+**2025**
+
+- Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset for Panoramic X-ray Analysis
+  [[pdf]](https://arxiv.org/abs/2509.09254)
+  [[code]](https://github.com/isbrycee/OralGPT)
+  - Jing Hao, Yuxuan Fan, Yanpeng Sun, Kaixin Guo, Lizhuo Lin, Jinrong Yang, Qi Yong H. Ai, Lun M. Wong, Hao Tang, Kuo Feng Hung. *NIPS2025*
+
+- OralGPT-Omni: A Versatile Dental Multimodal Large Language Model
+  [[pdf]](https://arxiv.org/abs/2511.22055)
+  [[code]](https://github.com/isbrycee/OralGPT)
+  - Jing Hao, Yuci Liang, Lizhuo Lin, Yuxuan Fan, Wenkai Zhou, Kaixin Guo, Zanting Ye, Yanpeng Sun, Xinyu Zhang, Yanqi Yang, Qiankun Li, Hao Tang, James Kit-Hon Tsoi, Linlin Shen, Kuo Feng Hung. *Arxiv*
+    
+- DentVLM: A Multimodal Vision-Language Model forComprehensive Dental Diagnosis and EnhancedClinical Practice
+  [[pdf]](https://arxiv.org/abs/2509.23344)
+  - Zijie Meng, Jin Hao, Xiwei Dai, Yang Feng, Jiaxiang Liu, Bin Feng, Huikai Wu, Xiaotang Gai, Hengchuan Zhu, Tianxiang Hu, Yangyang Wu, Hongxia Xu, Jin Li, Jun Xiao, Xiaoqiang Liu, Joey Tianyi Zhou, Fudong Zhu, Zhihe Zhao, Lunguo Xia, Bing Fang, Jimeng Sun, Jian Wu, Zuozhu Liu. *Arxiv*
+ 
+- ArchMap: Arch-Flattening and Knowledge-Guided Vision Language Model for Tooth Counting and Structured Dental Understanding
+  [[pdf]](https://arxiv.org/abs/2511.14336)
+  - Bohan Zhang, Yiyi Miao, Taoyu Wu, Tong Chen, Ji Jiang, Zhuoxiao Li, Zhe Tang, Limin Yu, Jionglong Su. *Arxiv*
 
 
 ### Segmentation
