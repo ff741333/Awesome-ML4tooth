@@ -6,7 +6,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Datasets](#datasets)
 * [Papers](#papers)
   * [Survey](#survey)
-  * [LVLM](#lvlm) 
+  * [LVLM](#lvlm)
+  * [Agentic AI](#agentic-ai)
   * [Segmentation](#segmentation)
   * [Registration](#registration)
   * [Construction](#construction)
@@ -17,18 +18,45 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Datasets
 
-| Dataset                   | Time     | Number |  Format   | Institudes | Tasks |
-|---------------------------|----------|--------|-----------|------------| ----- |
-| [toothfairy3](https://toothfairy3.grand-challenge.org) | 2025 | 532 | 3D CBCT | / | Segmentation |
-| [toothfairy2](https://toothfairy2.grand-challenge.org) | 2024 | 480 | 3D CBCT | / | Segmentation |
-| [toothfairy](https://toothfairy.grand-challenge.org) | 2023 | 290 | 3D CBCT | / | Segmentation |
-| [STS-3D](https://tianchi.aliyun.com/competition/entrance/532087/introduction) | 2023 | 1084 | 3D CBCT | / | Segmentation |
-| [STS-2D](https://tianchi.aliyun.com/competition/entrance/532086/introduction) | 2023 | 9500  | 2D X-ray | / | Segmentation |
-| [DC1000](https://github.com/Zzz512/MLUA) | 2023 | 1000  | 2D X-ray | / | Segmentation |
-| [3DTeethSeg22&Teeth3DS](https://github.com/abenhamadou/3DTeethSeg22_challenge) | 2022 | 1800 | 3D intra-oral scans | / | Segmentation |
-| [Aariz](https://github.com/manwaarkhd/aariz-cephalometric-dataset) | 2022 | 1000 | 2D lateral cephalometric radiographs | / | Localization  |
-| [Shining3D](https://drive.google.com/drive/folders/1fx9_KVEugZxbO3aTdwdfVTGf87_9FoLx) | 2020 | 210 | 3D intra-oral scans | / | Segmentation |
-| [FALA](https://figshare.com/s/37ec464af8e81ae6ebbf) | 2016 | 400 | 2D lateral cephalometric radiographs | / | Localization |
+### Imaging and 3D Datasets
+
+| Dataset | Year | Size | Modality / Format | Access | Tasks |
+| --- | --- | --- | --- | --- | --- |
+| [MetaDent](https://huggingface.co/datasets/dengwenhui/MetaDent) | 2026 | 60,669 images; approximately 15K VQA pairs | Intraoral photographs + semi-structured text | Open, CC BY-NC 4.0 | VQA, captioning, multi-label classification |
+| [COde: Multimodal Oro-Dental Dataset](https://doi.org/10.57967/hf/6421) | 2026 | 4,800 patients; 8,775 checkups; 50,000 photos; 8,056 radiographs | Intraoral photographs, radiographs, bilingual clinical records | Open on Hugging Face | Classification, report generation, LVLM training |
+| [Adults' Dental CBCT Missing-Teeth Dataset](https://doi.org/10.57760/sciencedb.26465) | 2026 | 158 cases | CBCT DICOM + 3D JSON annotations | Open on ScienceDB | Missing-tooth detection and classification |
+| [BRAR](https://figshare.com/s/cc2db8648788c7aa175c) | 2025 | 1,104 patients | Panoramic radiographs + demographics + tooth-level annotations | Open, CC BY 4.0 | Periodontal bone-resorption grading |
+| [MMDental](https://doi.org/10.6084/m9.figshare.28505276) | 2025 | 660 patients; 161,200 CBCT slices; 2,125 records | 3D CBCT + expert clinical records | Open on Figshare | Multimodal diagnosis, report understanding, treatment planning |
+| [FDTooth](https://www.physionet.org/content/fdtooth/1.0.0/) | 2025 | 241 patients | Intraoral photographs + paired CBCT | Controlled PhysioNet access | Fenestration and dehiscence detection |
+| [STS-3D / STS-3D-Tooth](https://tianchi.aliyun.com/competition/entrance/532087/introduction) | 2023–2025 | 1,084 CBCT volumes in challenge release | 3D CBCT | Open challenge data | Tooth instance segmentation |
+| [STS-2D / STS-2D-Tooth](https://tianchi.aliyun.com/competition/entrance/532086/introduction) | 2023–2025 | 9,500 panoramic X-rays in challenge release | 2D panoramic X-ray | Open challenge data | Tooth segmentation |
+| [Multimodal Dental Dataset](https://www.nature.com/articles/s41597-024-04130-1) | 2024 | 169 patients; 329 CBCT scans | CBCT, panoramic and generated periapical radiographs | Controlled PhysioNet access | Segmentation, reconstruction, image translation |
+| [toothfairy3](https://toothfairy3.grand-challenge.org) | 2025 | 532 | 3D CBCT | Open challenge data | Segmentation |
+| [toothfairy2](https://toothfairy2.grand-challenge.org) | 2024 | 480 | 3D CBCT | Open challenge data | Segmentation |
+| [toothfairy](https://toothfairy.grand-challenge.org) | 2023 | 290 | 3D CBCT | Open challenge data | Segmentation |
+| [DENTEX](https://dentex.grand-challenge.org/data/) | 2023 | 2,332 labeled + 1,571 unlabeled X-rays | Panoramic X-ray + hierarchical annotations | Open on Zenodo | Quadrant, tooth enumeration and abnormality detection |
+| [DC1000](https://github.com/Zzz512/MLUA) | 2023 | 1,000 | 2D panoramic X-ray | Open | Caries segmentation |
+| [3DTeethSeg22 / Teeth3DS](https://github.com/abenhamadou/3DTeethSeg22_challenge) | 2022 | 1,800 | 3D intraoral scans | Open challenge data | Tooth segmentation and labeling |
+| [Aariz](https://github.com/manwaarkhd/aariz-cephalometric-dataset) | 2022 | 1,000 | Lateral cephalometric radiographs | Open | Landmark localization |
+| [Shining3D](https://drive.google.com/drive/folders/1fx9_KVEugZxbO3aTdwdfVTGf87_9FoLx) | 2020 | 210 | 3D intraoral scans | Open | Segmentation |
+| [FALA](https://figshare.com/s/37ec464af8e81ae6ebbf) | 2016 | 400 | Lateral cephalometric radiographs | Open | Landmark localization |
+
+### LVLM, LLM and Agent Benchmarks
+
+| Dataset / Benchmark | Year | Size | Modality / Format | Access | Tasks |
+| --- | --- | --- | --- | --- | --- |
+| [GlobalDentBench](https://github.com/FreedomIntelligence/GlobalDentBench) | 2026 | 8,978 questions; 14 specialties; 88 countries/regions | MCQ, short-answer and case-based questions | OA subset open; full set by request | Clinical reasoning, robustness and safety-risk evaluation |
+| [MM-OPG / ToothXpert Annotations](https://huggingface.co/datasets/jeffrey423/ToothXpert.MM-OPG-Annotations) | 2026 | 131,065 QA pairs; 11 conditions | Panoramic X-rays + visual QA + segmentation | Open, Apache 2.0 | OPG VQA, tooth segmentation and report generation |
+| [MMOral-OPG-Bench](https://huggingface.co/datasets/OralGPT/MMOral-OPG-Bench) | 2025 | 100 images; 491 closed-ended + 578 open-ended questions | Panoramic X-rays + VQA | Open, MIT | Dental perception, history, pathology, jaw analysis and reporting |
+| [MMOral-OPG-Training](https://huggingface.co/datasets/OralGPT/MMOral-OPG-Training) | 2025 | 18.7 GB; sample count not stated | Panoramic X-rays + instruction data | Gated on Hugging Face | Dental LVLM instruction tuning |
+| [MetaDent-Bench](https://github.com/WenhDeng/metadent-bench) | 2026 | Approximately 15K VQA pairs; 18-class labels | Intraoral photographs + hierarchical annotations | Open benchmark and pipeline | VQA, captioning and multi-label classification |
+| [OralCorpus](https://huggingface.co/datasets/OralGPT/OralCorpus) | 2026 | Approximately 134.8M tokens | Chinese and English dental text + vector databases | Gated on Hugging Face | RAG, domain adaptation and knowledge retrieval |
+| [DentalBench](https://arxiv.org/abs/2508.20416) | 2025 | DentalQA: 36,597 questions; DentalCorpus: 337.35M tokens | Chinese-English text | Paper available; official public release not verified | Bilingual QA, SFT and RAG |
+| [MMOral-Uni](https://openaccess.thecvf.com/content/CVPR2026/html/Hao_OralGPT-Omni_A_Versatile_Dental_Multimodal_Large_Language_Model_CVPR_2026_paper.html) | 2026 | 2,809 open-ended QA pairs | Five dental imaging modalities; five tasks | Announced by authors; release link not verified | Unified multimodal dental reasoning |
+| [OralMLLM-Bench](https://arxiv.org/abs/2605.01333) | 2026 | 27 tasks; 3,820 clinician assessments | Periapical, panoramic and lateral cephalometric radiographs | Paper available; dataset release not verified | Perception, comprehension, prediction and decision-making |
+| [DentalGemma-VQA](https://huggingface.co/datasets/naazimsnh02/dentalgemma-vqa) | 2026 | 2,529 image-text pairs | Clinical photographs + panoramic X-rays | Open community dataset, Apache 2.0 | VQA, pathology classification and localization |
+
+Access labels: **Open** = directly downloadable; **Controlled/Gated** = registration, agreement or approval required; **OA subset** = only an open test subset is public; **release not verified** = described in a paper but no confirmed official dataset download was found.
 
 
 
@@ -40,7 +68,52 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S092523122300752X)
   - Chenxi Huang, Jiaji Wang, Shuihua Wang, Yudong Zhang. *Neurocomputing 2023*
 
+- Artificial intelligence in stomatology: Innovations in clinical practice, research, education, and healthcare management
+  [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC12549346/)
+  - Reviews AI applications in clinical care, research, education, hospital management, and multi-agent collaboration. *Beijing Da Xue Xue Bao 2025*
+
+- Leveraging large language models for patient instructions in dentistry: A systematic review and meta-analysis
+  [[paper]](https://pubmed.ncbi.nlm.nih.gov/41368722/)
+  - Rui Zhang, Yu Pan, Yushu Liu, Yinlong Deng, Edmond Ho Nang Pow. *Journal of Prosthodontics 2025*
+
+- The role of large language models in dental diagnosis, decision-making, and communication: A systematic review
+  [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC12865642/)
+  - Taibe Tokgoz Kaplan, Gulbahar Erdinc Akyol. *Japanese Dental Science Review 2026*
+
+- Multimodal large language models for oral lesion diagnosis: A systematic review of diagnostic performance and clinical utility
+  [[paper]](https://pubmed.ncbi.nlm.nih.gov/41816099/)
+  - Fatma E. A. Hassanein, Malik Alkabazi, Melek Tassoker, Yousra Ahmed, Suliman Alsaeed, Asmaa Abou-Bakr. *Frontiers in Oral Health 2026*
+
+- A six-level clinical autonomy framework for artificial intelligence in dentistry
+  [[paper]](https://www.frontiersin.org/journals/oral-health/articles/10.3389/froh.2026.1836492/full)
+  - Sohaib Shujaat. *Frontiers in Oral Health 2026*
+
 ### LVLM
+
+**2026**
+
+- A multimodal vision-language model for comprehensive dental diagnosis and enhanced clinical practice (DentVLM)
+  [[paper]](https://www.nature.com/articles/s41467-026-75718-x)
+  [[preprint]](https://arxiv.org/abs/2509.23344)
+  - Zijie Meng, Jin Hao, Xiwei Dai, et al. *Nature Communications 2026*
+
+- Towards clinical-level interpretation of dental panoramic radiography using an instance-guided vision-language model (DentFound)
+  [[paper]](https://www.nature.com/articles/s41551-026-01713-8)
+  - Qikui Zhu, Yeyu Lin, Weitao Fu, et al. *Nature Biomedical Engineering 2026*
+
+- Developing and evaluating multimodal large language model for orthopantomography analysis to support clinical dentistry (ToothXpert)
+  [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC13006406/)
+  [[model]](https://huggingface.co/jeffrey423/ToothXpert)
+  - Xinyu Liu, Kuo Feng Hung, Weihao Yu, Ray Anthony W. T. Ng, Wuyang Li, Tianye Niu, Hui Chen, Yixuan Yuan. *Cell Reports Medicine 2026*
+
+- DentalGPT: Incentivizing Multimodal Reasoning in Dentistry
+  [[paper]](https://aclanthology.org/2026.findings-acl.135/)
+  [[code]](https://github.com/FreedomIntelligence/DentalGPT)
+  - Zhenyang Cai, Jiaming Zhang, Junjie Zhao, et al. *Findings of ACL 2026*
+
+- A benchmark multimodal oro-dental dataset for large vision-language models
+  [[paper]](https://www.nature.com/articles/s41597-026-07342-9)
+  - Haoxin Lv, Ijazul Haq, Jin Du, et al. *Scientific Data 2026*
 
 **2025**
 
@@ -54,14 +127,32 @@ If you have any problems, suggestions or improvements, please submit the issue o
   [[code]](https://github.com/isbrycee/OralGPT)
   - Jing Hao, Yuci Liang, Lizhuo Lin, Yuxuan Fan, Wenkai Zhou, Kaixin Guo, Zanting Ye, Yanpeng Sun, Xinyu Zhang, Yanqi Yang, Qiankun Li, Hao Tang, James Kit-Hon Tsoi, Linlin Shen, Kuo Feng Hung. *Arxiv*
     
-- DentVLM: A Multimodal Vision-Language Model forComprehensive Dental Diagnosis and EnhancedClinical Practice
-  [[pdf]](https://arxiv.org/abs/2509.23344)
-  - Zijie Meng, Jin Hao, Xiwei Dai, Yang Feng, Jiaxiang Liu, Bin Feng, Huikai Wu, Xiaotang Gai, Hengchuan Zhu, Tianxiang Hu, Yangyang Wu, Hongxia Xu, Jin Li, Jun Xiao, Xiaoqiang Liu, Joey Tianyi Zhou, Fudong Zhu, Zhihe Zhao, Lunguo Xia, Bing Fang, Jimeng Sun, Jian Wu, Zuozhu Liu. *Arxiv*
- 
 - ArchMap: Arch-Flattening and Knowledge-Guided Vision Language Model for Tooth Counting and Structured Dental Understanding
   [[pdf]](https://arxiv.org/abs/2511.14336)
   - Bohan Zhang, Yiyi Miao, Taoyu Wu, Tong Chen, Ji Jiang, Zhuoxiao Li, Zhe Tang, Limin Yu, Jionglong Su. *Arxiv*
 
+### Agentic AI
+
+**2026**
+
+- OralAgent: Integrating Reasoning, Tools, and Knowledge for Interactive Dental Image Analysis
+  [[paper]](https://arxiv.org/abs/2605.27378)
+  [[code]](https://github.com/isjinghao/OralAgent)
+  - Jing Hao, Siyuan Dai, Yongxin Zhang, et al. *arXiv 2026*
+
+- DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning
+  [[paper]](https://arxiv.org/abs/2608.18878)
+  - Zijie Meng, Xiwei Dai, Yixuan Tang, et al. *arXiv 2026*
+
+- OPGAgent: An Agent for Auditable Dental Panoramic X-ray Interpretation
+  [[paper]](https://arxiv.org/abs/2603.00462)
+  [[code]](https://github.com/Zhaolin-Yu/OPGAgent)
+  - Zhaolin Yu, Litao Yang, Ben Babicka, et al. *arXiv 2026*
+
+- OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis
+  [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Fan_OralGPT-Plus_Learning_to_Use_Visual_Tools_via_Reinforcement_Learning_for_CVPR_2026_paper.html)
+  [[code]](https://github.com/isjinghao/OralGPT)
+  - Yuxuan Fan, Jing Hao, Hong Chen, Jiahao Bao, Yihua Shao, Yuci Liang, Kuo Feng Hung, Hao Tang. *CVPR 2026*
 
 ### Segmentation
 
@@ -302,5 +393,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 ## Projects
 - [SlicerAutomatedDentalTools](https://github.com/DCBIA-OrthoLab/SlicerAutomatedDentalTools)
+- [OralAgent](https://github.com/isjinghao/OralAgent)
+- [OralGPT](https://github.com/isjinghao/OralGPT)
+- [OPGAgent](https://github.com/Zhaolin-Yu/OPGAgent)
+- [DentalGPT](https://github.com/FreedomIntelligence/DentalGPT)
+- [ToothXpert](https://huggingface.co/jeffrey423/ToothXpert)
+- [Dental Tool Agent](https://github.com/Paul-dumont/dental-tool-agent)
 - [bone-finder](https://bone-finder.com/)
 - [auto_tooth_arragement](https://github.com/yeyuxmf/auto_tooth_arrangement)
