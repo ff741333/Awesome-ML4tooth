@@ -313,14 +313,45 @@ Access labels: **Open** = directly downloadable; **Controlled/Gated** = registra
   - Haibo Jin, Haoxuan Che, Hao Chen. *MICCAI 2023*
 
 ### Arrangement/Alignment
+**2026**
+- MDTAN: An Automatic Tooth Arrangement Network Based on Multi-feature Fusion and Diffusion Model
+  [[paper]](https://doi.org/10.1016/j.bspc.2026.109747)
+  - Hong-an Li, Jiaxing Fu, Man Liu. *Biomedical Signal Processing and Control 2026*
+
+- Tooth Alignment by Diffusion Model with Hierarchical Spatial Relationship Learning
+  [[paper]](https://doi.org/10.1016/j.bspc.2026.109624)
+  - Changkai Ji, Yusheng Liu, Sheng Wang, et al. *Biomedical Signal Processing and Control 2026*
+
+- Automatic Orthodontic Treatment Planning Using Deep Learning
+  [[paper]](https://doi.org/10.1007/s11633-025-1556-2)
+  - Uroosa Sehar, Jing Xiong, Jiemei Zhai, Zeyang Xia. *Machine Intelligence Research 2026*
+
 **2025**
+- CLIK-Diffusion: Clinical Knowledge-informed Diffusion Model for Tooth Alignment
+  [[paper]](https://doi.org/10.1016/j.media.2025.103746)
+  [[code]](https://github.com/ShanghaiTech-IMPACT/CLIK-Diffusion)
+  - Yulong Dou, Han Wu, Changjian Li, Chen Wang, Tong Yang, Min Zhu, Dinggang Shen, Zhiming Cui. *Medical Image Analysis 2025*
+
+- Transformer-based Tooth Alignment Prediction with Occlusion and Collision Constraints
+  [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Dong_Transformer-based_Tooth_Alignment_Prediction_with_Occlusion_and_Collision_Constraints_ICCV_2025_paper.html)
+  - Zhenxing Dong, Jiazhou Chen. *ICCV 2025*
+
+- TEANet: Automated Tooth Extraction and Arrangement with Tooth-level Graph Spatial Transformation Network
+  [[paper]](https://doi.org/10.1016/j.cmpb.2025.108985)
+  - Xiaoshuang Li, et al. *Computer Methods and Programs in Biomedicine 2025*
+
+- Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective
+  [[paper]](https://doi.org/10.1109/TVCG.2025.3589215)
+  [[preprint]](https://arxiv.org/abs/2409.11937)
+  - Zhihui He, Chengyuan Wang, Shidong Yang, Li Chen, Yanheng Zhou, Shuo Wang. *IEEE Transactions on Visualization and Computer Graphics 2025*
+
 - An automatic teeth arrangement method based on an intelligent optimization algorithm and the Frenet–Serret formula
   [[pdf]](https://www.sciencedirect.com/science/article/abs/pii/S174680942500117X)
   - Hong-an Li, Man Liu. *Biomedical Signal Processing and Control*
 
 - A Dynamic Arrangement Framework for Automatic Tooth Alignment based on Orthodontic Rules
-  [[pdf]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5196607)
-  - Yeying Fan, Guangshun Wei, Weijie Liu, Chuanxiang Yang, Chuanyun Fu, Wenping Wang, Yuanfeng Zhou. *Preprint*
+  [[paper]](https://doi.org/10.1016/j.cagd.2025.102436)
+  - Yeying Fan, Guangshun Wei, Weijie Liu, Chuanxiang Yang, Chuanyun Fu, Wenping Wang, Yuanfeng Zhou. *Computer Aided Geometric Design 2025*
 
 **2024**
 - Collaborative Tooth Motion Diffusion Model in Digital Orthodontics
@@ -353,10 +384,6 @@ Access labels: **Open** = directly downloadable; **Controlled/Gated** = registra
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10566714)
   - Zefeng Shi, Zijie Meng, Ruizhe Chen, Yang Feng, Zeyu Zhao, Jin Hao, Bing Fang, Zuozhu Liu, Youyi Zheng. *TVCG*
 
-- Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective
-  [[pdf]](https://arxiv.org/abs/2409.11937)
-  - Zhihui He, Chengyuan Wang, Shidong Yang, Li Chen, Yanheng Zhou, Shuo Wang. *Arxiv*
-
 **2023**
 - A Semantic-Guided and Knowledge-Based Generative Framework for Orthodontic Visual Outcome Preview
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_14)
@@ -381,6 +408,21 @@ Access labels: **Open** = directly downloadable; **Controlled/Gated** = registra
 - Malocclusion Treatment Planning via PointNet Based Spatial Transformation Network
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_11)
   - Xiaoshuang Li, Lei Bi, Jinman Kim, Tingyao Li, Peng Li, Ye Tian, Bin Sheng, and Dagan Feng. *MICCAI 2020*
+
+#### Complete Denture Tooth Arrangement
+
+- AI-assisted Digital Tooth Arrangement System for Esthetic Optimization in Virtual Dentures
+  [[paper]](https://pubmed.ncbi.nlm.nih.gov/42109357/)
+  - Karthikeyan Vasudevan, Vijay Parmar, Gouri R. Reddy, et al. *Bioinformation 2026*
+  - CNN trained on 2,500 clinically validated denture cases and evaluated on 40 edentulous patients; the software and code are not publicly identified.
+
+- Complete Denture Tooth Arrangement Technology Driven by a Reconfigurable Rule
+  [[paper]](https://doi.org/10.1371/journal.pone.0198252)
+  - Rule-driven automatic arrangement using position, scaling, posture and contact constraints. *PLOS ONE 2018*
+
+- Study on Digital Teeth Selection and Virtual Teeth Arrangement for Complete Denture
+  [[paper]](https://doi.org/10.1016/j.cmpb.2017.11.022)
+  - Personalized tooth selection, arrangement-line calculation and virtual tooth placement. *Computer Methods and Programs in Biomedicine 2018*
 
 ### Digital Smile Design
 **2024**
