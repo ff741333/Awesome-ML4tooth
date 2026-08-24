@@ -13,6 +13,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
   * [Construction](#construction)
   * [Landmark](#landmark)
   * [Arrangement/Alignment](#arrangementalignment)
+  * [Orthognathic Surgery](#orthognathic-surgery)
   * [Digital Smile Design](#digital-smile-design)
 * [Projects](#projects)
 
@@ -95,11 +96,11 @@ Access labels: **Open** = directly downloadable; **Controlled/Gated** = registra
 - A multimodal vision-language model for comprehensive dental diagnosis and enhanced clinical practice (DentVLM)
   [[paper]](https://www.nature.com/articles/s41467-026-75718-x)
   [[preprint]](https://arxiv.org/abs/2509.23344)
-  - Zijie Meng, Jin Hao, Xiwei Dai, et al. *Nature Communications 2026*
+  - Zijie Meng, Jin Hao, Xiwei Dai, Yang Feng, Jiaxiang Liu, Bin Feng, Huikai Wu, Xiaotang Gai, Hengchuan Zhu, Tianxiang Hu, Yangyang Wu, Hongxia Xu, Jin Li, Jun Xiao, Xiaoqiang Liu, Joey Tianyi Zhou, Fudong Zhu, Zhihe Zhao, Lunguo Xia, Bing Fang, Jimeng Sun, Jian Wu, Zuozhu Liu. *Nature Communications 2026*
 
 - Towards clinical-level interpretation of dental panoramic radiography using an instance-guided vision-language model (DentFound)
   [[paper]](https://www.nature.com/articles/s41551-026-01713-8)
-  - Qikui Zhu, Yeyu Lin, Weitao Fu, et al. *Nature Biomedical Engineering 2026*
+  - Qikui Zhu, Yeyu Lin, Weitao Fu, Wenhui Tang, Jiaxing Li, Ying Zhang, Bo Li, Xiaolong Guo, Fang Wang, Haiyan Qi, Chongke Sun, Xiangkui Zhu, Zhonghao Liu, Li He, Zhiguo Zheng, Bo Du, Jie Yang, Zhuan Bian, Liuyan Meng. *Nature Biomedical Engineering 2026*
 
 - Developing and evaluating multimodal large language model for orthopantomography analysis to support clinical dentistry (ToothXpert)
   [[paper]](https://pmc.ncbi.nlm.nih.gov/articles/PMC13006406/)
@@ -109,11 +110,11 @@ Access labels: **Open** = directly downloadable; **Controlled/Gated** = registra
 - DentalGPT: Incentivizing Multimodal Reasoning in Dentistry
   [[paper]](https://aclanthology.org/2026.findings-acl.135/)
   [[code]](https://github.com/FreedomIntelligence/DentalGPT)
-  - Zhenyang Cai, Jiaming Zhang, Junjie Zhao, et al. *Findings of ACL 2026*
+  - Zhenyang Cai, Jiaming Zhang, Junjie Zhao, Ziyi Zeng, Yanchao Li, Liang Jingyi, Junying Chen, Yunjin Yang, Jiajun You, Shuzhi Deng, Xieruiqiii, Yuanting Chen, Xiangyi Feng, Jianquan Li, Liangyi Chen, Junwen Wang, Shan Jiang, Benyou Wang. *Findings of ACL 2026*
 
 - A benchmark multimodal oro-dental dataset for large vision-language models
   [[paper]](https://www.nature.com/articles/s41597-026-07342-9)
-  - Haoxin Lv, Ijazul Haq, Jin Du, et al. *Scientific Data 2026*
+  - Haoxin Lv, Ijazul Haq, Jin Du, Jiaxin Ma, Binnian Zhu, Xiaobing Dang, Chaoan Liang, Ruxu Du, Yingjie Zhang, Muhammad Saqib. *Scientific Data 2026*
 
 **2025**
 
@@ -138,16 +139,16 @@ Access labels: **Open** = directly downloadable; **Controlled/Gated** = registra
 - OralAgent: Integrating Reasoning, Tools, and Knowledge for Interactive Dental Image Analysis
   [[paper]](https://arxiv.org/abs/2605.27378)
   [[code]](https://github.com/isjinghao/OralAgent)
-  - Jing Hao, Siyuan Dai, Yongxin Zhang, et al. *arXiv 2026*
+  - Jing Hao, Siyuan Dai, Yongxin Zhang, Yuci Liang, Jiamin Wu, Jiahao Bao, Yuxuan Fan, Zanting Ye, Yanpeng Sun, Xinyu Zhang, Ming Hu, Liang Zhan, James Kit-Hon Tsoi, Linlin Shen, Junjun He, Kuo Feng Hung. *arXiv 2026*
 
 - DentAgent: Evidence-Centric Multi-Agent Coordination for Multimodal Dental Reasoning
   [[paper]](https://arxiv.org/abs/2608.18878)
-  - Zijie Meng, Xiwei Dai, Yixuan Tang, et al. *arXiv 2026*
+  - Zijie Meng, Xiwei Dai, Yixuan Tang, Jin Hao, Yang Feng, Fudong Zhu, Xiaoqiang Liu, Shaosheng Cao, Zuozhu Liu. *arXiv 2026*
 
 - OPGAgent: An Agent for Auditable Dental Panoramic X-ray Interpretation
   [[paper]](https://arxiv.org/abs/2603.00462)
   [[code]](https://github.com/Zhaolin-Yu/OPGAgent)
-  - Zhaolin Yu, Litao Yang, Ben Babicka, et al. *arXiv 2026*
+  - Zhaolin Yu, Litao Yang, Ben Babicka, Ming Hu, Jing Hao, Anthony Huang, James Huang, Yueming Jin, Jiasong Wu, Zongyuan Ge. *arXiv 2026*
 
 - OralGPT-Plus: Learning to Use Visual Tools via Reinforcement Learning for Panoramic X-ray Analysis
   [[paper]](https://openaccess.thecvf.com/content/CVPR2026/html/Fan_OralGPT-Plus_Learning_to_Use_Visual_Tools_via_Reinforcement_Learning_for_CVPR_2026_paper.html)
@@ -320,7 +321,7 @@ Access labels: **Open** = directly downloadable; **Controlled/Gated** = registra
 
 - Tooth Alignment by Diffusion Model with Hierarchical Spatial Relationship Learning
   [[paper]](https://doi.org/10.1016/j.bspc.2026.109624)
-  - Changkai Ji, Yusheng Liu, Sheng Wang, et al. *Biomedical Signal Processing and Control 2026*
+  - Changkai Ji, Yusheng Liu, Sheng Wang, Yuxian Jiang, Huayan Guo, Wen Xiao, Zhengzhan Lv, Miri Chung, Xingnan Lin, Xueyan Xiong, Lingyong Jiang, Lisheng Wang. *Biomedical Signal Processing and Control 2026*
 
 - Automatic Orthodontic Treatment Planning Using Deep Learning
   [[paper]](https://doi.org/10.1007/s11633-025-1556-2)
@@ -338,7 +339,7 @@ Access labels: **Open** = directly downloadable; **Controlled/Gated** = registra
 
 - TEANet: Automated Tooth Extraction and Arrangement with Tooth-level Graph Spatial Transformation Network
   [[paper]](https://doi.org/10.1016/j.cmpb.2025.108985)
-  - Xiaoshuang Li, et al. *Computer Methods and Programs in Biomedicine 2025*
+  - Xiaoshuang Li, Miri Chung, Lei Bi, Jialiang Huang, Yichen Pan, Dagan Feng, Dong Chen, Bin Sheng, Jinman Kim, Lingyong Jiang. *Computer Methods and Programs in Biomedicine 2025*
 
 - Differentiable Collision-Supervised Tooth Arrangement Network with a Decoupling Perspective
   [[paper]](https://doi.org/10.1109/TVCG.2025.3589215)
@@ -409,20 +410,114 @@ Access labels: **Open** = directly downloadable; **Controlled/Gated** = registra
   [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_11)
   - Xiaoshuang Li, Lei Bi, Jinman Kim, Tingyao Li, Peng Li, Ye Tian, Bin Sheng, and Dagan Feng. *MICCAI 2020*
 
-#### Complete Denture Tooth Arrangement
+### Orthognathic Surgery
 
-- AI-assisted Digital Tooth Arrangement System for Esthetic Optimization in Virtual Dentures
-  [[paper]](https://pubmed.ncbi.nlm.nih.gov/42109357/)
-  - Karthikeyan Vasudevan, Vijay Parmar, Gouri R. Reddy, et al. *Bioinformation 2026*
-  - CNN trained on 2,500 clinically validated denture cases and evaluated on 40 edentulous patients; the software and code are not publicly identified.
+#### Diagnosis and Surgical Planning
 
-- Complete Denture Tooth Arrangement Technology Driven by a Reconfigurable Rule
-  [[paper]](https://doi.org/10.1371/journal.pone.0198252)
-  - Rule-driven automatic arrangement using position, scaling, posture and contact constraints. *PLOS ONE 2018*
+**2026**
 
-- Study on Digital Teeth Selection and Virtual Teeth Arrangement for Complete Denture
-  [[paper]](https://doi.org/10.1016/j.cmpb.2017.11.022)
-  - Personalized tooth selection, arrangement-line calculation and virtual tooth placement. *Computer Methods and Programs in Biomedicine 2018*
+- Automated Orthognathic Surgery Planning Based on Shape-Aware Morphology Prediction and Anatomy-Constrained Registration
+  [[paper]](https://doi.org/10.1109/TIP.2026.3651981)
+  - Yan Guo, Chenyao Li, Haitao Li, Weiwen Ge, Bolun Zeng, Jiaxuan Liu, Tianhao Wan, Shanyong Zhang, Xiaojun Chen. *IEEE Transactions on Image Processing 2026*
+  - OrthoPlanner first uses the shape-aware JawFormer to predict postoperative bone morphology from preoperative 3D point clouds, then applies anatomy- and symmetry-constrained rigid registration to recover interpretable movements of osteotomized bone segments.
+
+**2021**
+
+- A Self-Supervised Deep Framework for Reference Bony Shape Estimation in Orthognathic Surgical Planning
+  [[paper]](https://arxiv.org/abs/2109.05191)
+  - Deqiang Xiao, Hannah Deng, Tianshu Kuang, Lei Ma, Qin Liu, Xu Chen, Chunfeng Lian, Yankun Lang, Daeseung Kim, Jaime Gateno, Steve Guofang Shen, Dinggang Shen, Pew-Thian Yap, James J. Xia. *MICCAI 2021*
+
+#### Facial Soft-tissue and Outcome Prediction
+
+**2026**
+
+- PhysSFI-Net: Physics-informed Geometric Learning of Skeletal and Facial Interactions for Orthognathic Surgical Outcome Prediction
+  [[paper]](https://doi.org/10.1038/s41746-026-03075-6)
+  - Jiahao Bao, Huazhen Liu, Yu Zhuang, Leran Tao, Xinyu Xu, Yongtao Shi, Mengjia Cheng, Yiming Wang, Congshuang Ku, Ting Zeng, Yilang Du, Siyi Chen, Shunyao Shen, Suncheng Xiang, Hongbo Yu. *npj Digital Medicine 2026*
+  - Combines hierarchical graph-based skeletal–facial interaction learning, attention, an LSTM incremental-deformation predictor, and biomechanics-inspired high-resolution reconstruction; trained on 135 patients and externally validated on 33 patients.
+
+- PINNOCHIO: Physics-Informed Neural Network for Coupled Hyperelastic Interface-Volume Simulation in Orthognathic Surgery
+  [[paper]](https://arxiv.org/abs/2606.01572)
+  [[code]](https://github.com/RPIDIAL/PINNOCHIO)
+  - Jungwook Lee, Daeseung Kim, Kevin Gu, Zhangfeng Hu, Tianshu Kuang, Finn Hopeman, Michael A. K. Liebschner, Jaime Gateno, Pingkun Yan. *arXiv 2026*
+  - Decouples discontinuous bone–soft-tissue interface motion from continuous volumetric hyperelastic deformation and uses physics-enabled sim-to-real adaptation for efficient, biomechanically consistent facial simulation.
+
+- NICE: Neural Implicit Craniofacial Model for Orthognathic Surgery Prediction
+  [[paper]](https://doi.org/10.1609/aaai.v40i32.39971)
+  [[code]](https://github.com/Bill-Yang-1/NICE)
+  - Jiawen Yang, Yihui Cao, Xuanyu Tian, Yuyao Zhang, Hongjiang Wei. *AAAI 2026*
+  - Uses region-specific implicit signed-distance-function decoders to reconstruct the facial surface, maxilla, and mandible, followed by deformation decoders driven by a shared surgical latent code for postoperative prediction.
+
+- Facial Appearance Prediction for Orthognathic Surgery with Diffusion Models
+  [[paper]](https://doi.org/10.1016/j.media.2026.103934)
+  [[code]](https://github.com/RPIDIAL/FAPOS)
+  - Jungwook Lee, Xuanang Xu, Daeseung Kim, Tianshu Kuang, Hannah H. Deng, Xinrui Song, Yasmine Soubra, Michael A. K. Liebschner, Jaime Gateno, Pingkun Yan. *Medical Image Analysis 2026*
+  - FAPOS is a transformer-based latent diffusion framework that predicts a patient-specific optimal 3D facial appearance directly from the preoperative face using a dense 282-landmark representation and large-scale pretraining on 44,602 public 3D faces.
+
+- Facial Model Assisted Shape Prediction for Orthognathic Surgery
+  [[paper]](https://doi.org/10.1007/978-3-032-09513-8_2)
+  - Siyu Cheng, Lanzhuju Mei, Minjiao Wang, Min Zhu, Kaicong Sun, Zhiming Cui, Dinggang Shen. *MLMI at MICCAI 2025, proceedings published 2026*
+  - FMR-Net uses the FLAME parametric face model to provide topologically consistent, anatomically coherent facial representations for plan-free postoperative shape prediction.
+
+**2025**
+
+- Maxillofacial Bone Movements-aware Dual Graph Convolution Approach for Postoperative Facial Appearance Prediction
+  [[paper]](https://doi.org/10.1016/j.media.2024.103350)
+  - Xinrui Huang, Dongming He, Zhenming Li, Xiaofan Zhang, Xudong Wang. *Medical Image Analysis 2025*
+  - DGCFP learns facial-mesh geometry in Euclidean and geodesic graph spaces, transfers bone movements to facial regions with dual-space attentive correspondence, and predicts deformation from coarse to fine.
+
+- Facial Appearance Prediction with Conditional Multi-scale Autoregressive Modeling for Orthognathic Surgical Planning
+  [[paper]](https://papers.miccai.org/miccai-2025/0320-Paper1908.html)
+  [[code]](https://github.com/RPIDIAL/CAMOS)
+  - Jungwook Lee, Xuanang Xu, Daeseung Kim, Tianshu Kuang, Hannah H. Deng, Xinrui Song, Yasmine Soubra, Rohan Dharia, Michael A. K. Liebschner, Jaime Gateno, Pingkun Yan. *MICCAI 2025*
+  - CAMOS uses conditional multi-scale autoregressive generation to predict a patient-specific optimal 3D face from the preoperative appearance.
+
+- Soft-tissue Prediction Based on 3D Photographs for Virtual Surgery Planning of Orthognathic Surgery
+  [[paper]](https://doi.org/10.1016/j.compbiomed.2025.110529)
+  - Bo Berends, Freek Bielevelt, Frank Baan, Ruud Schreurs, Thomas Maal, Tong Xi, Guido de Jong. *Computers in Biology and Medicine 2025*
+  - Evaluated on 458 patients; generated real-time predictions from 3D photographs with a reported overall mean error of 1.17 mm.
+
+**2024**
+
+- Correspondence Attention for Facial Appearance Simulation
+  [[paper]](https://doi.org/10.1016/j.media.2024.103094)
+  [[code]](https://github.com/RPIDIAL/Facial_Simulation)
+  - Xi Fang, Daeseung Kim, Xuanang Xu, Tianshu Kuang, Nathan Lampen, Jungwook Lee, Hannah H. Deng, Michael A. K. Liebschner, James J. Xia, Jaime Gateno, Pingkun Yan. *Medical Image Analysis 2024*
+  - Introduces attentive correspondence and a spatial-proximity-aware contrastive loss to model the relationship between surgical bone movement and facial soft-tissue deformation.
+
+**2023**
+
+- Simulation of Postoperative Facial Appearances via Geometric Deep Learning for Efficient Orthognathic Surgical Planning
+  [[paper]](https://doi.org/10.1109/TMI.2022.3180078)
+  - Lei Ma, Deqiang Xiao, Daeseung Kim, Chunfeng Lian, Tianshu Kuang, Qin Liu, Hannah H. Deng, Erkun Yang, Michael A. K. Liebschner, Jaime Gateno, James J. Xia, Pew-Thian Yap. *IEEE Transactions on Medical Imaging 2023*
+
+- Soft-tissue Driven Craniomaxillofacial Surgical Planning
+  [[paper]](https://doi.org/10.1007/978-3-031-43996-4_18)
+  - Xi Fang, Daeseung Kim, Xuanang Xu, Tianshu Kuang, Nathan Lampen, Jungwook Lee, Hannah H. Deng, Jaime Gateno, Michael A. K. Liebschner, James J. Xia, Pingkun Yan. *MICCAI 2023*
+  - Combines a bony-planner network with a facial-simulator network to infer and verify bone movements from a desired soft-tissue outcome.
+
+- Spatiotemporal Incremental Mechanics Modeling of Facial Tissue Change
+  [[paper]](https://doi.org/10.1007/978-3-031-43996-4_54)
+  - Nathan Lampen, Daeseung Kim, Xuanang Xu, Xi Fang, Jungwook Lee, Tianshu Kuang, Hannah H. Deng, Michael A. K. Liebschner, James J. Xia, Jaime Gateno, Pingkun Yan. *MICCAI 2023*
+  - Models facial-tissue deformation as incremental mechanical changes across multiple surgical movement steps.
+
+**2022**
+
+- Deep Learning for Biomechanical Modeling of Facial Tissue Deformation in Orthognathic Surgical Planning
+  [[paper]](https://doi.org/10.1007/s11548-022-02596-1)
+  - Nathan Lampen, Daeseung Kim, Xi Fang, Xuanang Xu, Tianshu Kuang, Hannah H. Deng, Joshua C. Barber, Jaime Gateno, James J. Xia, Pingkun Yan. *International Journal of Computer Assisted Radiology and Surgery 2022*
+  - Uses a biomechanics-informed PointNet++ model with facial geometry, prescribed displacement, and boundary types to approximate finite-element soft-tissue simulation.
+
+- Deep Learning-based Facial Appearance Simulation Driven by Surgically Planned Craniomaxillofacial Bony Movement
+  [[paper]](https://arxiv.org/abs/2210.01685)
+  - Xi Fang, Daeseung Kim, Xuanang Xu, Tianshu Kuang, Hannah H. Deng, Joshua C. Barber, Nathan Lampen, Jaime Gateno, Michael A. K. Liebschner, James J. Xia, Pingkun Yan. *MICCAI 2022*
+
+**2021**
+
+- Deep Simulation of Facial Appearance Changes Following Craniomaxillofacial Bony Movements in Orthognathic Surgical Planning
+  [[paper]](https://doi.org/10.1007/978-3-030-87202-1_44)
+  - Lei Ma, Daeseung Kim, Chunfeng Lian, Deqiang Xiao, Tianshu Kuang, Qin Liu, Yankun Lang, Hannah H. Deng, Jaime Gateno, Ye Wu, Erkun Yang, Michael A. K. Liebschner, James J. Xia, Pew-Thian Yap. *MICCAI 2021*
+  - Presents FC-Net for weakly supervised prediction of postoperative facial point displacements from planned bony movements; it is the conference precursor of the 2023 TMI work above.
 
 ### Digital Smile Design
 **2024**
